@@ -17,6 +17,6 @@ To start the simulation, navigate to the project directory and run the following
 
 python3 main.py
 
-I hope this readme file helps you understand how to run and customize the fireworks simulation! Let me know if you have any questions or need further assistance.
+I hope this readme file helps you understand how to run and customize the fireworks simulation!
 
 (This README file was made from chatgpt)
