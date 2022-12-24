@@ -1,17 +1,18 @@
 # FireworkSimulation
 This project is a simulation of fireworks using Python and Pygame. It's made for a competion.
 
-#Prerequisites
+# Prerequisites
 To run this simulation, you will need to have the following software installed:
 
 Python 3.x
 Pygame
-#Installation
+# Installation
 To install the necessary libraries, run the following command:
 
 pip3 install pygame
 pip3 install playsound
-Running the Simulation
+
+# Running the Simulation
 To start the simulation, navigate to the project directory and run the following command:
 
 python3 main.py
